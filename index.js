@@ -1,5 +1,4 @@
-const add = require("./add");
-console.log("initial commit");
+require("./batman");
+require("./superman");
 
-const sum = add(5,2);
-console.log(sum)
+
